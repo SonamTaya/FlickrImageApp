@@ -24,5 +24,5 @@ INSTRUCTIONS
 
 RUNNING THE APP
 
-Open FlickrApp.xcodeproj
+Open FlickrImageApp.xcodeproj
 You can press Command + R to run the App
