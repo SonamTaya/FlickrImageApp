@@ -24,5 +24,5 @@ INSTRUCTIONS
 
 RUNNING THE APP
 
-Open SpaceNowApp.xcworkspace
+Open FlickrApp.xcodeproj
 You can press Command + R to run the App
